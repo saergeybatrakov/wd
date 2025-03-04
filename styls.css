@@ -1,0 +1,23 @@
+html {
+	background-color: #2BFFF0;
+	padding: 60px;
+	background: -webkit-linear-gradient(#FDFDF0, #A055F0);
+}
+body {
+	border: 4px dashed #990000;
+	background: #fc3;  
+	padding: 80px;
+	box-shadow: 0 0 80px rgba(0,0,0,0.8);
+	background-image: url(./images/123.jpg);
+}
+p {
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	color: #FFFF00;
+	font-size: 16pt;
+}
+h1, h2 {
+	color: rgb(144, 64, 45);
+}
